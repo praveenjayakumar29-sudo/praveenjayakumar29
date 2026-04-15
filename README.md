@@ -14,7 +14,7 @@
 ---
 
 ### ■ P R O F E S S I O N A L  S U M M A R Y
-PL/SQL Developer with **4.5+ years** of experience working with Oracle databases in a hospital environment, specializing in data extraction, transformation, and reporting. Skilled in SQL, PL/SQL, Power BI, and Excel for building reports, dashboards, and handling clinical and billing data. 
+PL/SQL Developer with **2.5+ years** of experience working with Oracle databases in a hospital environment, specializing in data extraction, transformation, and reporting. Skilled in SQL, PL/SQL, Power BI, and Excel for building reports, dashboards, and handling clinical and billing data. 
 
 Possess foundational knowledge in Python, Machine Learning, and Generative AI, with a growing interest in Data Engineering and Analytics. Proven ability to optimize queries, improve reporting efficiency, and deliver actionable insights. 
 
